@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @didgeridoo40k
 - 👀 I’m interested in learning to code and contribute to open source projects.
-- 🌱 I’m currently learning git and python.
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on open source projects.
 <!---
 - 📫 How to reach me …
